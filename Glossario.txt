@@ -1,0 +1,6 @@
+mi = me
+Cossa = cosa
+esser = essere
+de = di
+vu = voi
+tornerè = tornerete
